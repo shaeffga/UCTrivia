@@ -1,0 +1,7 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "ed48c2373cda9223dc871033fc0b0e5a"
+inputs: 
+- "/Users/meyer2mj/Desktop/UCTrivia/UCTrivia/ViewController.swift"
+- "/Users/meyer2mj/Desktop/UCTrivia/UCTrivia/QuestionsViewController.swift"
+- !dirty "/Users/meyer2mj/Desktop/UCTrivia/UCTrivia/ScoreScreenViewController.swift"
+- "/Users/meyer2mj/Desktop/UCTrivia/UCTrivia/AppDelegate.swift"
